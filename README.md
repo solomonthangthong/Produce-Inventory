@@ -3,10 +3,17 @@ This application is a grocery produce inventory application built in Java. The a
 ## How to run this application
 Windows   
 - Download source files
-- Compile with Java
-- Run in command prompt
+- Open command prompt in directory where the project files
+- Compile in command prompt 
+```
+javac ProduceInventory.java
+```
+- Run program 
+```
+java ProduceInventory
+```
 ### Example
-This is an example of what should happen when adding an item into the inventory
+This is an example of adding an item into the inventory & displaying the item afterwards.
 ``` 
 Please select one of the following:
 1. Add Item to Inventory
